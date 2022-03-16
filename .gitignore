@@ -1,2 +1,3 @@
 *secrets*
 *.terraform
+terraform-successful-applies/start.sh
