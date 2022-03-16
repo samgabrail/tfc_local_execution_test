@@ -45,4 +45,3 @@ resource "aws_vpc" "hashicat" {
     environment = "Production"
   }
 }
-
